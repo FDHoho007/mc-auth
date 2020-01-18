@@ -1,0 +1,4 @@
+main: de.myfdweb.woc.mcplugins.mcauth.MCAuth
+name: MCAuth
+author: FDHoho007
+version: 1.0
